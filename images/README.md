@@ -1,0 +1,1 @@
+Put club photos here (hero, training, gradings, competitions, group photo) and reference them from `js/data/club.js`. Photos shot on dark backgrounds blend best: the design lightens images into the dark page.
